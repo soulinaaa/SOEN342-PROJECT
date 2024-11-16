@@ -1,5 +1,47 @@
-**SOEN342 PROJECT**
-team members 
+# **SOEN 342 - Software Requirements and Deployment Project**
 
-Lina Taalba 40250168
-Anthony Anania 40211167
+## **Team 35**
+- **Lina Taalba**  
+  - **Student ID:** 40250168  
+- **Anthony Anania**  
+  - **Student ID:** 40211167  
+
+---
+
+## **Project Overview**
+This project is part of the **SOEN 342 course** at Concordia University. It involves developing a system to support an organization in managing **lessons** across various locations and schedules. The system allows **clients** and **instructors** to interact effectively with lesson offerings.
+
+---
+
+## **Link to Demonstrative Video**
+Click [here](https://www.youtube.com/watch?v=g4_W8p4MJJU) to watch the **project demonstration video**.
+
+---
+
+## **Technology Used**
+- **Java**  
+- **MySQL** 
+- **Docker**
+- **DBeaver** (Database Tool)  
+
+---
+
+## **Diagrams Organization**
+### **Sprint 1**  
+- Use Case UML Diagram  
+
+### **Sprints 2 & 3**  
+- Domain Model  
+- Interactions Diagram  
+- Operations Contract  
+- Class Diagram  
+- System Sequence Diagram (SSD)  
+- Package Diagram  
+
+### **Sprint 4**  
+- OCL Expressions  
+- Relational Model 
+
+## **Code Organization**
+
+Main program is in Lessons folder, this folder contains the code and the SQL file in the database folder.
